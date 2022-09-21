@@ -1,0 +1,2 @@
+Le cours "parcours utilisateur" consiste à connaitre et isolé chaque action que l'utilisateur fera dans notre système.
+Il faut aussi isolé les priorités de l'application par rapport aux priorités de l'utilisateur.
