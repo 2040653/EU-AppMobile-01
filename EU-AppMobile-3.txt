@@ -1,0 +1,2 @@
+Le cours du nom de "Profils types d'utilisateurs" consiste simplement à identifier quel genre d'utilisateur seront ceux 
+qui utilisent notre application. En bref, il faut isolé le public que notre application cible. 
